@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Satranç
+GenericName=Satranç Oyunu ve Analiz
+Comment=Tam kurallı satranç oyunu, analiz ve ilk beş hamle önerisi
+Exec=satranj
+TryExec=satranj
+Icon=satranj
+Terminal=false
+Categories=Game;BoardGame;
+StartupNotify=true
+NoDisplay=false
+Hidden=false

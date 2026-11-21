@@ -1,0 +1,20 @@
+# Derleme artıkları
+/*.o
+/*.ppu
+/*.compiled
+/*.or
+/*.obj
+/chess
+/chess.exe
+/chess.AppImage
+/test_perft
+
+# Android kaynakları (README'den kaldırıldı)
+/android/
+
+# dist/ içinde sadece platform bazlı yükleme dosyaları tutulur
+dist/*
+!dist/Linux/
+!dist/Linux/*
+!dist/Windows/
+!dist/Windows/*
